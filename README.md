@@ -68,13 +68,15 @@ npm run dev
 ## 📸 Demo
 👉 Place your screenshots & GIFs inside the `screenshots/` folder.  
 
-```markdown
+markdown
 ### Gmail Integration
-![Gmail UI](screenshots/ui.png)
+![Gmail UI](screenshots/extension-ui.png)
 
 ### AI Reply Example
-![AI Reply Example](screenshots/reply-demo.gif)
-```
+![AI Reply Example](screenshots/content-generation.png)
+
+### React UI
+![React-UI](screenshots/react-UI.png)
 
 ---
 
