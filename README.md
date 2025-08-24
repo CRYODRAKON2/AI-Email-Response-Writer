@@ -19,7 +19,7 @@ ai-email-reply-generator/
 │── backend/       # Spring Boot backend (API + Gemini integration)
 │── frontend/      # React frontend (UI for reply generator)
 │── extension/     # Chrome Extension embedding into Gmail
-│── screenshots/   # Images & GIFs for demo
+│── screenshots/   # Images for demo
 │── README.md
 │── .gitignore
 ```
@@ -66,7 +66,6 @@ npm run dev
 ---
 
 ## 📸 Demo
-👉 Place your screenshots & GIFs inside the `screenshots/` folder.  
 
 markdown
 ### Gmail Integration
